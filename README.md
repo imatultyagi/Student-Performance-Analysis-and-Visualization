@@ -68,3 +68,19 @@ The project uses a CSV dataset containing student records with marks in:
 - English
 
 The dataset is included as students.csv
+
+
+## Sample Visualizations
+
+### Top 7 Student Performance
+![Bar Chart](charts/bar_chart.png)
+
+### Grade Distribution
+![Pie Chart](charts/pie_chart.png)
+
+### Math vs Science Performance
+![Scatter Plot](charts/scatter_plot.png)
+
+### Marks Distribution
+![Histogram](charts/histogram.png)
+
