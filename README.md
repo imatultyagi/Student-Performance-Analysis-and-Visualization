@@ -84,3 +84,13 @@ The dataset is included as students.csv
 ### Marks Distribution
 ![Histogram](charts/histogram.png)
 
+
+
+## Author
+Atul Tyagi
+
+LinkedIn: http://www.linkedin.com/in/imatultyagi
+
+Thank you for visiting this repository.
+
+
